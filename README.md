@@ -1,2 +1,2 @@
 # nsfwyoutube
-Chrome extension for bypassing age restricted content without account.
+Chrome extension for bypassing age restricted content on YouTube without account.
