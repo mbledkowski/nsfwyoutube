@@ -1,2 +1,2 @@
 # nsfwyoutube
-Chrome extension allowing you to watch restricted content on YouTube without an account.
+Chrome extension that allows you to watch age restricted content on YouTube without an account.
